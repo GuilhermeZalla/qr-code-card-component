@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["../sass/style.scss","../sass/page/index.scss","../sass/colors/colors.scss"],"names":[],"mappings":"AACQ;ACDR;EACI;EACA,aCIQ;;ADHR;EACI;EACA;EACA;EACA;;AACA;EACI,kBCTF;EDUE;EACA;EACA;EACA;EACA;EACA;EACA;;AACA;EACI;EACA;EACA;;AAEJ;EACI,SCfL;EDgBK,WCpBL;EDqBK,OCvBJ;;ADyBA;EACI,SCnBN;EDoBM,WCxBN;EDyBM,OC3BL","file":"style.css"}
